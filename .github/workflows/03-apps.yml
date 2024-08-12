@@ -38,26 +38,26 @@ jobs:
       max-parallel: 11
       matrix:
         app:
-          - app-bedrock
-          - app-cakephp4
+          # - app-bedrock
+          # - app-cakephp4
           - app-cakephp5
-          - app-codeigniter4
-          - app-drupal
-          - app-flarum
-          - app-grav
-          - app-hyperf
-          - app-kirby
-          - app-laminas
-          - app-laravel
-          - app-mautic
-          - app-phpmyadmin
-          - app-slim
-          - app-spiral
-          - app-statamic
-          - app-sulu
-          - app-symfony
-          - app-wordpress
-          - app-yii
+          # - app-codeigniter4
+          # - app-drupal
+          # - app-flarum
+          # - app-grav
+          # - app-hyperf
+          # - app-kirby
+          # - app-laminas
+          # - app-laravel
+          # - app-mautic
+          # - app-phpmyadmin
+          # - app-slim
+          # - app-spiral
+          # - app-statamic
+          # - app-sulu
+          # - app-symfony
+          # - app-wordpress
+          # - app-yii
         # include:
         #   - app: app-laravel
         #     server: [apache, nginx]
